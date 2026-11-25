@@ -1,0 +1,30 @@
+{
+  "name": "instagram-agent-br",
+  "description": "Catorze skills de Claude para Instagram em português do Brasil, para uma ou várias contas: Reels a partir de 26 fórmulas de gancho com nota e mapa de batidas, pesquisa do que está funcionando no seu nicho, legendas revisadas (corte do '... mais', limite de 5 hashtags, identificação de publi do CONAR), carrosséis, stories, nota do perfil, plano semanal no horário de Brasília, comentários, respostas, DMs, reaproveitamento, auditoria e um humanizador que tira a cara de IA antes de qualquer coisa sair. Nada é postado sem você.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Alessandro Katayama",
+    "url": "https://github.com/alessandrokatayama"
+  },
+  "homepage": "https://github.com/alessandrokatayama/instagram-agent-skill-br",
+  "repository": "https://github.com/alessandrokatayama/instagram-agent-skill-br",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "reels",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "agente-de-ia",
+    "legenda",
+    "hashtags",
+    "carrossel",
+    "stories",
+    "humanizador",
+    "marketing-digital",
+    "social-media",
+    "pt-br",
+    "portugues",
+    "brasil"
+  ]
+}

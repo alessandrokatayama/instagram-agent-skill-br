@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "instagram-agent-skill-br",
+  "description": "Pacote de skills de Instagram para Claude, em português do Brasil",
+  "owner": {
+    "name": "Alessandro Katayama",
+    "url": "https://github.com/alessandrokatayama"
+  },
+  "plugins": [
+    {
+      "name": "instagram-agent-br",
+      "description": "Catorze skills de Claude para cuidar de uma ou várias contas de Instagram em português do Brasil, com nota de gancho, pesquisa de nicho, revisão de legenda e um humanizador.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/alessandrokatayama/instagram-agent-skill-br"
+    }
+  ]
+}
